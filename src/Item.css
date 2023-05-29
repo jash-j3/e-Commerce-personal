@@ -1,0 +1,21 @@
+.carouDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: left;
+  height: 330px;
+  width: 250px;
+  background-color: white;
+  color: #2a7c6f !important;
+  margin: 0;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+span{
+  font-size: 1.5rem;
+}

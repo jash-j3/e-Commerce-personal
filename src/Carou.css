@@ -1,0 +1,17 @@
+.rec.rec-arrow {
+    color: #2a7c6f !important;
+    background-color: white !important;
+    box-shadow: none !important;
+  border-radius: 50%;
+}
+
+.rec.rec-arrow:hover {
+  background-color: #2a7c6f !important;
+  color: white !important;
+  border-radius: 50%;
+}
+
+.carouClass{
+  padding: 20px 10px;
+  
+}

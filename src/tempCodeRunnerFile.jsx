@@ -1,0 +1,1 @@
+<div className="firstHead"><span>JcubeStore</span></div>
