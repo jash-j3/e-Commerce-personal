@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
 
 .bodyDiv {
   background-image: url("https://static.wixstatic.com/media/62f1197e6f5944d7aa90b68e58359240.jpg/v1/fill/w_1899,h_950,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/62f1197e6f5944d7aa90b68e58359240.jpg");
@@ -7,6 +7,7 @@
   aspect-ratio: 2;
   width: 100%;
   display: block;
+  font-weight: 100;
 }
 
 .transparent-div {
@@ -23,15 +24,18 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  font-weight: 100 !important;
 }
 
 .transparent-div h1 {
   font-size: 4rem;
   margin: 0px;
+  font-weight: 300;
 }
 
 .transparent-div h6 {
   font-size: 2rem;
+  font-weight: 200;
   margin: 0;
 }
 
